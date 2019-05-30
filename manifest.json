@@ -1,6 +1,6 @@
 {
-  "name": "vuetify-todo-pwa",
-  "short_name": "vuetify-todo",
+  "name": "what-nogah-eats",
+  "short_name": "nogah-eatch",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "https://itamar.rocks/whatnogaheats/#/all/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#e64074"
